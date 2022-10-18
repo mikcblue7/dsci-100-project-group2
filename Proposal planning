@@ -1,0 +1,24 @@
+Intro
+- using COVID-19 dataset (uploaded to github)
+- relevant background
+- "What province does a person live in if they contracted COVID-19 between (two dates), [other predictors], ...?"
+    - not for sure but this is the best we've got right now (classification)
+- OR predict how many people will contract covid in January 2022 based on the data provided
+    - regression question (neither Jason or Mikayla know how to do this yet)
+    
+exploratory data analysis
+- An example of a useful table could be one that reports the number of observations in each class, 
+  the means of the predictor variables you plan to use in your analysis and how many rows have missing data. 
+- comparison of COVID-19 rates between each province
+
+
+Methods
+- classification/regression analysis
+- need to do a cross-validation before we know what columns to use
+- visualize the results with a scatter plot
+
+
+Outcomes and Significance
+- we expect to find...
+- Knowing these results can help minimize the damage done by COVID-19 and help predict when it will be safe to relax restrictions
+- will these trends observed in the data set continue into 2022 or will there be a large change?
