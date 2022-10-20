@@ -3,7 +3,7 @@ Intro
 - relevant background
 - "What province does a person live in if they contracted COVID-19 between (two dates), [other predictors], ...?"
     - not for sure but this is the best we've got right now (classification)
-- OR predict how many people will contract covid in January 2022 based on the data provided
+- OR predict how many people will contract covid in December 2021 based on the data provided
     - regression question (neither Jason or Mikayla know how to do this yet)
     
 exploratory data analysis
@@ -13,7 +13,7 @@ exploratory data analysis
 
 
 Methods
-- classification/regression analysis
+- classification
 - need to do a cross-validation before we know what columns to use
 - visualize the results with a scatter plot
 
